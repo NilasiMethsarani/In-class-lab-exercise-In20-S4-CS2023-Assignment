@@ -64,7 +64,7 @@ int main() {
     return 0;
 }
 
-Code for Sorting the array using Quick Sort iteratively
+//Code for Sorting the array using Quick Sort iteratively
 
 #include <iostream>
 #include <vector>
